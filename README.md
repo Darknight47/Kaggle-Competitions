@@ -8,3 +8,8 @@
 **Main Objective:** Predict the probability that a patient will be diagnosed with diabetes.
 
 ---
+## Competition 03 🦀🐚🦞
+### Crab Age with Regression
+**Main Objective:** The main task is to use regression to predict the age of crabs given physical attributes
+
+---
